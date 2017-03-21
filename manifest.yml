@@ -1,4 +1,6 @@
 ---
+routes:
+- route: rmagesh-wcs-wds.mybluemix.net
 applications:
 - services:
   - discovery-service
